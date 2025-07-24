@@ -3,9 +3,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array
 from PIL import Image
 import numpy as np
-from tf_keras_vis.saliency import Saliency
-from tf_keras_vis.utils import normalize
-from tf_keras_vis.utils.scores import CategoricalScore
+
 import matplotlib.pyplot as plt
 
 
