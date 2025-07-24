@@ -72,8 +72,8 @@ html_code = """
     <h2>Sample Images</h2> <!-- Subheading for images -->
     <p>Below are some sample images related to distracted driving:</p> <!-- Description for images -->
 
-    <img src="image1.jpg" alt="Sample Image 1"> <!-- Placeholder for the first image -->
-    <img src="image2.jpg" alt="Sample Image 2"> <!-- Placeholder for the second image -->
+    <img src="Image 1 that works.jpg" alt="Sample Image 1"> <!-- Placeholder for the first image -->
+    <img src="Image 2 that works.jpg" alt="Sample Image 2"> <!-- Placeholder for the second image -->
     
 
     <footer>
