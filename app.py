@@ -28,7 +28,7 @@ html_code = """
             color: #343a40; /* Dark text color */
         }
         h1 {
-            font-size: 48px; /* Largest font size for the main heading */
+            font-size: 44px; /* Largest font size for the main heading */
             text-align: center; /* Center the heading */
             color: #007bff; /* Blue color for the main heading */
             margin-bottom: 20px; /* Space below the heading */
