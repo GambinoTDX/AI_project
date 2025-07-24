@@ -74,7 +74,7 @@ html_code = """
 
     <img src="image1.jpg" alt="Sample Image 1"> <!-- Placeholder for the first image -->
     <img src="image2.jpg" alt="Sample Image 2"> <!-- Placeholder for the second image -->
-    <img src="image3.jpg" alt="Sample Image 3"> <!-- Placeholder for the third image -->
+    
 
     <footer>
         <p>Feel free to replace the images with your own samples!</p> <!-- Note for users -->
