@@ -129,7 +129,7 @@ model = load_model('./cnn.keras')
 def predict_image(img):
     # Preprocess the image
     img = image.resize((64, 64))
-    img_arry = img_to_array(img)
+    img_array = img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
 
     # Make prediction
