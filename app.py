@@ -154,7 +154,7 @@ html_code2 = """
 <html lang="en">
 <footer>
 <p>
-@2025 LucasZachFred.Inc
+©2025 LucasZachFred.Inc
 </p>
 </footer>
 </html>
