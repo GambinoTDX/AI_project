@@ -69,17 +69,10 @@ html_code = """
     <h1>Welcome to Distracted Driving AI</h1> <!-- Main heading -->
     <p>This project aims to analyze and detect distracted driving behaviors using AI technology.</p> <!-- Description of the project -->
 
-    <h2>Sample Images</h2> <!-- Subheading for images -->
-    <p>Below are some sample images related to distracted driving:</p> <!-- Description for images -->
 
-    <img src="Image 1 that works.jpg" alt="Sample Image 1"> <!-- Placeholder for the first image -->
-    <img src="Image 2 that works.jpg" alt="Sample Image 2"> <!-- Placeholder for the second image -->
     
 
-    <footer>
-        <p>Feel free to replace the images with your own samples!</p> <!-- Note for users -->
-        <p>&copy; 2025 Distracted Driving AI Project</p> <!-- Copyright notice -->
-    </footer>
+    
 </body>
 </html>
 """
@@ -156,3 +149,15 @@ if uploaded_file is not None:
     # FILL THIS IN
 
 # YOUR CODE HERE - add to use a saliency map and overlay it!
+html_code2 = """
+<!DOCTYPE html>
+<html lang="en">
+<footer>
+<p>
+@2025 LucasZachFred.Inc
+</p>
+</footer>
+</html>
+
+"""
+st.html(html_code2)
